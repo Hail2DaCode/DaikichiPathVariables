@@ -1,0 +1,49 @@
+* {
+	margin: 0 auto;
+}
+form {
+	display: flex;
+	flex-direction: column;
+	width: 15%;
+	height: 500px;
+	justify-content: space-evenly;
+	border: 2px solid black;
+	padding: 30px;
+}
+button {
+	width: 20%;
+	background-color: blueviolet;
+	box-shadow: 3px 5px 5px rgba(0,0,0,0.5);
+	color: white;
+	margin: 20px 0px 20px 180px;
+}
+div.container {
+	background-color: skyblue;
+	border: 2px solid black;
+	width: 25%;
+	padding: 20px;
+}
+div.container2 {
+	margin: 20px;
+}
+p, span {
+	color: blueviolet;
+}
+input, label {
+	margin: 5px;
+}
+h1 {
+	text-align: center;
+	margin: 20px 0px;
+}
+.link {
+	margin: 20px;
+	text-align: center;
+}
+.super {
+	display: flex;
+	flex-direction: column;
+	width: 1200px;
+}
+
+

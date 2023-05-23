@@ -6,6 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 
+
+
 @RestController
 @RequestMapping("/daikichi")
 public class DaikichiController {
@@ -24,3 +26,7 @@ public class DaikichiController {
 		}
 	}
 }
+
+	
+	
+
